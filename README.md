@@ -15,7 +15,8 @@ Possuo conhecimentos sólidos em :
   <br>
  ## E estou estudando:  
  <div style="display:flex"> 
-    <img align="center" alt="Francisco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-   original.svg"> <img align="center" alt="Francisco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
+    <img align="center" alt="Francisco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-   original.svg"> 
+    <img align="center" alt="Francisco-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
 </div>
 
 
