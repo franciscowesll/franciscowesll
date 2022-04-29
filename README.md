@@ -13,7 +13,10 @@ Possuo conhecimentos sólidos em :
   </div>
   <br>
   <br>
- ## E estou estudando:  <img align="center" alt="Francisco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> e <img align="center" alt="Francisco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
+ ## E estou estudando:  
+ <div style="display:flex"> 
+    <img align="center" alt="Francisco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-   original.svg"> e <img align="center" alt="Francisco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
+</div>
 
 
 <br>
