@@ -1,6 +1,6 @@
 # Olá. Eu sou Francisco Weslley  👋
 
-##Possuo diploma em técnico em Informática, mas depois de finalizar o curso em 2009, deixei os assuntos de TI de lado.
+Possuo diploma em técnico em Informática, mas depois de finalizar o curso em 2009, deixei os assuntos de TI de lado.
 Hoje aos 29 anos, quero entrar no mundo da programação, e ajudar outras pessoas com o meu trabalho na área de Tecnologia. 
 
 Possuo conhecimentos sólidos em :
@@ -13,10 +13,10 @@ Possuo conhecimentos sólidos em :
   </div>
   <br>
   <br>
- ## E estou estudando:  
+ E estou estudando:  
  <div style="display:flex"> 
-    <img align="center" alt="Francisco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"> 
-    <img align="center" alt="Francisco-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
+    <img align="center" alt="Francisco-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"> 
+    <img align="center" alt="Francisco-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
 </div>
 
 
