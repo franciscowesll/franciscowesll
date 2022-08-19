@@ -10,7 +10,7 @@ Possuo conhecimentos sólidos em :
   <img align="center" alt="Francisco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Francisco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Francisco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
-  <img align="center" alt="Francisco-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"> 
+  <img align="center" alt="Francisco-Angular" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> 
   </div>
   <br>
   <br>
