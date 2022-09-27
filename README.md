@@ -11,13 +11,14 @@ Possuo conhecimentos sólidos em :
   <img align="center" alt="Francisco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Francisco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
   <img align="center" alt="Francisco-Angular" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> 
+  <img align="center" alt="Francisco-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
   </div>
   <br>
   <br>
  E estou estudando:  
  <div style="display:flex"> 
     <img align="center" alt="Francisco-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"> 
-    <img align="center" alt="Francisco-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
+  
     <img align="center" alt="Francisco-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
 </div>
 
