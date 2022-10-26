@@ -1,7 +1,7 @@
 # Olá. Eu sou Francisco Weslley  👋
 
 Possuo diploma em técnico em Informática, mas depois de finalizar o curso em 2009, deixei os assuntos de TI de lado.
-Hoje aos 29 anos, quero entrar no mundo da programação, e ajudar outras pessoas com o meu trabalho na área de Tecnologia. 
+Hoje aos 30 anos, quero entrar no mundo da programação, e ajudar outras pessoas com o meu trabalho na área de Tecnologia. 
 
 Possuo conhecimentos sólidos em :
 
