@@ -17,7 +17,7 @@ Possuo conhecimentos sólidos em :
  E estou estudando:  
 
  <div style="display:flex"> 
-    <img align="center" alt="Francisco-Angular" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> 
+    <img align="center" alt="Francisco-Next" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> 
     <img align="center" alt="Francisco-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"> 
     <img align="center" alt="Francisco-JAVA" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
 </div>
